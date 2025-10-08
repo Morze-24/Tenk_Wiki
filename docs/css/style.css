@@ -4,4 +4,8 @@
         p {
             font-size: 150%;
         }
-        
+        #btn-1 {
+            background-color: rgb(92, 255, 113);
+            color: rgb(60, 2, 2);
+            padding: 10px;
+        }
