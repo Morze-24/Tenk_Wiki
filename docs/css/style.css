@@ -8,4 +8,6 @@
             background-color: rgb(92, 255, 113);
             color: rgb(60, 2, 2);
             padding: 10px;
+            margin-top: 20px;
         }
+        #input-name {font-size: 20px;}
